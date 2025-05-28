@@ -1,0 +1,25 @@
+{
+  "name": "doodle-to-zoom",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/identity": "^4.10.0",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.9.0",
+    "dayjs": "^1.11.13",
+    "dayjs-plugin-utc": "^0.1.2",
+    "dotenv": "^16.5.0",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.0",
+    "nodemailer": "^7.0.3"
+  }
+}
